@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="GameUI_playing" type="CanvasLayer"]
+
+[node name="Panel" type="Panel" parent="."]
+margin_right = 1022.0
+margin_bottom = 45.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="Panel"]
+margin_left = 31.0
+margin_top = 2.0
+margin_right = 71.0
+margin_bottom = 42.0
