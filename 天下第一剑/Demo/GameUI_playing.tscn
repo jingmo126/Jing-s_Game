@@ -6,8 +6,9 @@
 margin_right = 1022.0
 margin_bottom = 45.0
 
-[node name="RichTextLabel" type="RichTextLabel" parent="Panel"]
+[node name="HP" type="RichTextLabel" parent="Panel"]
 margin_left = 31.0
 margin_top = 2.0
 margin_right = 71.0
 margin_bottom = 42.0
+text = "HP:50"
